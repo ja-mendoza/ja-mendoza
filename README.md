@@ -1,8 +1,8 @@
 ## Hi there, I'm Jaynor
 
-💻 Computer Science Student | Developer 
+**'Computer Science Student | Developer'** 
 
-## Language and Tools
+### 🧰Language and Tools
 
 <img align="left" alt="arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="cplusplus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
