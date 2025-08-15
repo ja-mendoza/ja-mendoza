@@ -1,6 +1,6 @@
-## Hi there, I'm Jaynor
+# Hi there, I'm Jaynor
 
-**'Computer Science Student | Developer'** 
+**`Computer Science Student | Developer`** 
 
 ### 🧰Language and Tools
 
