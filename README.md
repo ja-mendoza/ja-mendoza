@@ -2,6 +2,8 @@
 
 **`Computer Science Student | Developer`** 
 
+I am a third-year computer science student building a tesseract.
+
 ### 🧰Language and Tools
 
 <img align="left" alt="arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
