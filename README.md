@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-<!--
-**ja-mendoza/ja-mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Language and Tools
+
+<img align="left" alt="java" width="300px" style="padding-right: 10px">
+
+<img align="left" alt="java" width="300px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
