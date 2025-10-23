@@ -2,7 +2,7 @@
 
 **`Computer Science Student | Developer`** 
 
-I am a third-year computer science student creating a tesseract.
+I am a fourth-year computer science student creating a tesseract.
 
 ### 🧰 Language and Tools
 
